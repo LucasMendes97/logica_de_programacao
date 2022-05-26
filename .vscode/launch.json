@@ -7,7 +7,7 @@
         {
             "type": "pwa-msedge",
             "request": "launch",
-            "name": "Open minha_pagina.html",
+            "name": "Abrir minha_pagina.html",
             "file": "c:\\Users\\Lucas\\Desktop\\logica_de_programacao\\minha_pagina.html"
         }
     ]
