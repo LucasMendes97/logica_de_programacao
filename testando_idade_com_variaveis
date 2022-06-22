@@ -1,0 +1,10 @@
+<script>
+    var eu = 25;
+    var adriana = 26;
+    var paulo = 32;
+
+    var total = eu + adriana + paulo;
+    var media = total / 3;
+
+    document.write("A médida de idade: " + media);
+</script>
